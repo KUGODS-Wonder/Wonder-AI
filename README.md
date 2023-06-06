@@ -1,16 +1,14 @@
-# wonder_final
+# Wonder-AI
 
-A new Flutter project.
+**Reward system based on image classification**
 
-## Getting Started
+![image](https://github.com/KUGODS-Wonder/Wonder-AI/assets/108858246/81651662-0401-4d8c-86e7-57e2a298fc70)
+![image](https://github.com/KUGODS-Wonder/Wonder-AI/assets/108858246/e65ec7d8-f261-455b-80e2-1288b52845db)
 
-This project is a starting point for a Flutter application.
+* Users can find these stickers at the end of their walk.
+* When they take their phone cameras upon the sticker, our AI model recognizes it and uploads it on our app.
+* By using mobilnet_v2 model from tensorflow hub it is light, and can solve privacy issues of QR code.
+* Since the sticker they find is directly uploaded online, users can find fun accomplishing every walk.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Stacks
+Tensorflow
